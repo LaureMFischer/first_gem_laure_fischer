@@ -1,5 +1,7 @@
 # FirstGemLaureFischer
 
+[![Gem Version](https://badge.fury.io/rb/first_gem_laure_fischer.png)](http://badge.fury.io/rb/first_gem_laure_fischer)
+
 TODO: Write a gem description
 
 ## Installation
