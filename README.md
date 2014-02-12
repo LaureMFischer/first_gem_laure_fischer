@@ -2,6 +2,8 @@
 
 [![Gem Version](https://badge.fury.io/rb/first_gem_laure_fischer.png)](http://badge.fury.io/rb/first_gem_laure_fischer)
 
+[![Code Climate](https://codeclimate.com/repos/52fbafbfe30ba04783002fac/badges/55f8a9283b1114990ca7/gpa.png)](https://codeclimate.com/repos/52fbafbfe30ba04783002fac/feed)
+
 TODO: Write a gem description
 
 ## Installation
